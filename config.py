@@ -15,4 +15,4 @@ NEWS_KEYS = {
     "newsapi": os.environ.get("NEWSAPI_KEY")
 }
 
-DISCORD_TOKEN = os.environ.get("DISCORD_TOKEN")
+DISCORD_TOKEN = os.environ.get("BOT_TOKEN")
