@@ -71,4 +71,4 @@ async def on_interaction(interaction):
             "🛠 Utilities:\n- /reminder\n- /timer\n- /stopwatch (coming soon!)"
         )
 
-bot.run(DISCORD_BOT_TOKEN)
+bot.run(BOT_TOKEN)
